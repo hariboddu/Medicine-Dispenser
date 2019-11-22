@@ -1,6 +1,6 @@
 # Medicine-Dispenser and Medicine Expiry Detector
 
-Features:
+#Features:
 Schedules pills according to the users requirements at different times of the day.
 
 Designed a setup to automatically open and close appropriate slots, using arduino and
